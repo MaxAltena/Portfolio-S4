@@ -1,15 +1,6 @@
 .App {
   display: flex;
-  .Side-menu {
-    height: 100vh;
-  }
-  main {
-    width: 100%;
-  }
-  h1 {
-    font-size: 50px;
-  }
-  h2 {
-    font-size: 25px;
-  }
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
 }
