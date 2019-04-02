@@ -1,0 +1,62 @@
+[
+  { "hidden": true, "label": "", "value": "" },
+  {
+    "divider": true,
+    "label": "Algemeen",
+    "value": "nav-algemeen",
+    "icon": "fa-home"
+  },
+  {
+    "label": "Home",
+    "value": "home",
+    "icon": "fa-home",
+    "type": "splash"
+  },
+  {
+    "label": "Over mij",
+    "value": "about",
+    "icon": "fa-user",
+    "type": "iframe",
+    "title": "Document over Max Altena",
+    "content": "https://docs.google.com/document/d/1mu-9pzo-tCYt2wudpFJeOZjqEg0zHgSwAAB4kxmyltU/"
+  },
+  {
+    "label": "Kennismaking",
+    "value": "kennismaking",
+    "icon": "fa-comment",
+    "type": "iframe",
+    "title": "Document van kennismaking",
+    "content": "https://docs.google.com/document/d/1AXaM5NSrXI9KKVz5tLyzFIALY_Gmos-uHIh9vXyaHHQ/"
+  },
+  {
+    "divider": true,
+    "label": "Strategie & Concept",
+    "value": "nav-sco",
+    "icon": "fa-toolbox"
+  },
+  {
+    "label": "Vak",
+    "value": "sco1",
+    "icon": "fa-beer"
+  },
+  {
+    "divider": true,
+    "label": "User Experience & User Centered Design",
+    "value": "nav-UXU"
+  },
+  { 
+    "label": "Vak",
+    "value": "uxu1",
+    "icon": "fa-beer" 
+  },
+  { 
+    "divider": true, 
+    "label": "Design & Development", 
+    "value": "nav-DED" 
+  },
+  { 
+    "label": "Vak", 
+    "value": "ded1", 
+    "icon": "fa-beer" 
+  }
+]
