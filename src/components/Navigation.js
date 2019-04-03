@@ -48,6 +48,7 @@ class Navigation extends Component {
             {logo}
           </Link>
           <h1 className="hind bold">Portfolio S4 - Max Altena</h1>
+          <small style={{ marginTop: "-10px" }}>Being worked on</small>
           <div>
             <a
               href="https://maxaltena.com/"
