@@ -21,42 +21,171 @@
     "content": "https://docs.google.com/document/d/1mu-9pzo-tCYt2wudpFJeOZjqEg0zHgSwAAB4kxmyltU/"
   },
   {
-    "label": "Kennismaking",
-    "value": "kennismaking",
-    "icon": "fa-comment",
+    "divider": true,
+    "label": "Professionele ontwikkeling",
+    "value": "nav-po",
+    "icon": "fa-brain"
+  },
+  {
+    "label": "Opgestelde leerdoelen",
+    "value": "po-opgestelde-leerdoelen",
     "type": "iframe",
-    "title": "Document van kennismaking",
-    "content": "https://docs.google.com/document/d/1AXaM5NSrXI9KKVz5tLyzFIALY_Gmos-uHIh9vXyaHHQ/"
+    "title": "Document met de opgestelde professionele ontwikkeling leerdoelen",
+    "content": "https://docs.google.com/document/d/1Thcycya1UpFk60BQ5ULtg58AXNPGnhaoDE9FCFUuiDQ/"
   },
   {
     "divider": true,
     "label": "Strategie & Concept",
     "value": "nav-sco",
-    "icon": "fa-toolbox"
+    "icon": "fa-paint-brush"
   },
   {
-    "label": "Vak",
-    "value": "sco1",
-    "icon": "fa-beer"
+    "label": "Leerdoelen",
+    "value": "sco-leerdoelen",
+    "icon": "fa-bullseye",
+    "children": [
+      {
+        "label": "Conceptueel denken",
+        "value": "sco-leerdoel-conceptueel-denken"
+      },
+      {
+        "label": "Onderbouwen media-inzet",
+        "value": "sco-leerdoel-onderbouwen-media-inzet"
+      },
+      {
+        "label": "Executie concept",
+        "value": "sco-leerdoel-executie-concept"
+      }
+    ]
+  },
+  {
+    "label": "Bewijslast",
+    "value": "sco-bewijslast",
+    "icon": "fa-folder",
+    "children": [
+      {
+        "label": "doc",
+        "value": "sco-bewijslast-doc",
+        "icon": "fa-file"
+      }
+    ]
   },
   {
     "divider": true,
     "label": "User Experience & User Centered Design",
-    "value": "nav-UXU"
+    "value": "nav-uxu",
+    "icon": "fa-user-astronaut"
   },
-  { 
-    "label": "Vak",
-    "value": "uxu1",
-    "icon": "fa-beer" 
+  {
+    "label": "Leerdoelen",
+    "value": "uxu-leerdoelen",
+    "icon": "fa-bullseye",
+    "children": [
+      {
+        "label": "Gebruikersonderzoek",
+        "value": "uxu-leerdoel-gebruikersonderzoek"
+      },
+      {
+        "label": "Prototype voorleggen",
+        "value": "uxu-leerdoel-prototype-voorleggen"
+      },
+      {
+        "label": "Onderbouwen interface",
+        "value": "uxu-leerdoel-onderbouwen-interface"
+      }
+    ]
   },
-  { 
-    "divider": true, 
-    "label": "Design & Development", 
-    "value": "nav-DED" 
+  {
+    "label": "Bewijslast",
+    "value": "uxu-bewijslast",
+    "icon": "fa-folder",
+    "children": [
+      {
+        "label": "doc",
+        "value": "uxu-bewijslast-doc",
+        "icon": "fa-file"
+      }
+    ]
   },
-  { 
-    "label": "Vak", 
-    "value": "ded1", 
-    "icon": "fa-beer" 
+  {
+    "divider": true,
+    "label": "Design & Development",
+    "value": "nav-ded",
+    "icon": "fa-code"
+  },
+  {
+    "label": "Leerdoelen",
+    "value": "ded-leerdoelen",
+    "icon": "fa-bullseye",
+    "children": [
+      {
+        "label": "Architectuur",
+        "value": "ded-leerdoel-architectuur"
+      },
+      {
+        "label": "Beheerbaarheid",
+        "value": "ded-leerdoel-beheerbaarheid"
+      },
+      {
+        "label": "Ontwikkelomgeving",
+        "value": "ded-leerdoel-ontwikkelomgeving"
+      }
+    ]
+  },
+  {
+    "label": "Bewijslast",
+    "value": "ded-bewijslast",
+    "icon": "fa-folder",
+    "children": [
+      {
+        "label": "doc",
+        "value": "ded-bewijslast-doc",
+        "icon": "fa-file"
+      }
+    ]
+  },
+  {
+    "divider": true,
+    "label": "Proftaak",
+    "value": "nav-ptm",
+    "icon": "fa-users"
+  },
+  {
+    "label": "Leerdoelen",
+    "value": "ptm-leerdoelen",
+    "icon": "fa-bullseye",
+    "children": [
+      {
+        "label": "Projectmethodiek",
+        "value": "ptm-leerdoel-projectmethodiek",
+        "type": "iframe",
+        "title": "Document met een proftaak leerdoel genaamd projectmethodiek",
+        "content": "https://docs.google.com/document/d/1VSILVSNm3vO5lRL_P_OpsZRB3wxfE_kt49zPAjOC6wQ/"
+      },
+      {
+        "label": "Oordeelsvorming",
+        "value": "ptm-leerdoel-oordeelsvorming"
+      },
+      {
+        "label": "Leervaardigheid",
+        "value": "ptm-leerdoel-leervaardigheid"
+      },
+      {
+        "label": "Communicatie",
+        "value": "ptm-leerdoel-communicatie"
+      }
+    ]
+  },
+  {
+    "label": "Bewijslast",
+    "value": "ptm-bewijslast",
+    "icon": "fa-folder",
+    "children": [
+      {
+        "label": "doc",
+        "value": "ptm-bewijslast-doc",
+        "icon": "fa-file"
+      }
+    ]
   }
 ]

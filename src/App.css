@@ -61,7 +61,7 @@ iframe {
     height: 50px;
     width: 100%;
     padding: 15px 18px 15px 18px;
-    font-size: 14px; }
+    font-size: 13px; }
   .Side-menu .children {
     transition: max-height 0.7s ease-in;
     overflow: hidden; }
