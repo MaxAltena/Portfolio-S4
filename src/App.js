@@ -49,8 +49,6 @@ class App extends Component {
             activeItem: hashStripped
           }
         });
-      } else {
-        this.props.history.push("/#home");
       }
     }
   };
