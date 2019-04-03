@@ -35,7 +35,7 @@
   },
   {
     "divider": true,
-    "label": "Strategie & Concept",
+    "label": "Strategie & Concepting",
     "value": "nav-sco",
     "icon": "fa-paint-brush"
   },
@@ -46,7 +46,10 @@
     "children": [
       {
         "label": "Conceptueel denken",
-        "value": "sco-leerdoel-conceptueel-denken"
+        "value": "sco-leerdoel-conceptueel-denken",
+        "type": "iframe",
+        "title": "Document met een strategie & concepting leerdoel genaamd conceptueel denken",
+        "content": "https://docs.google.com/document/d/193nIqPdvrqLeimR6S_HQjAwXKLkheBshCQhUvvJ-ecY/"
       },
       {
         "label": "Onderbouwen media-inzet",
@@ -64,15 +67,15 @@
     "icon": "fa-folder",
     "children": [
       {
-        "label": "doc",
-        "value": "sco-bewijslast-doc",
+        "label": "leeg",
+        "value": "sco-bewijslast-leeg",
         "icon": "fa-file"
       }
     ]
   },
   {
     "divider": true,
-    "label": "User Experience & User Centered Design",
+    "label": "User Experience",
     "value": "nav-uxu",
     "icon": "fa-user-astronaut"
   },
@@ -101,8 +104,8 @@
     "icon": "fa-folder",
     "children": [
       {
-        "label": "doc",
-        "value": "uxu-bewijslast-doc",
+        "label": "leeg",
+        "value": "uxu-bewijslast-leeg",
         "icon": "fa-file"
       }
     ]
@@ -138,8 +141,8 @@
     "icon": "fa-folder",
     "children": [
       {
-        "label": "doc",
-        "value": "ded-bewijslast-doc",
+        "label": "leeg",
+        "value": "ded-bewijslast-leeg",
         "icon": "fa-file"
       }
     ]
@@ -164,15 +167,24 @@
       },
       {
         "label": "Oordeelsvorming",
-        "value": "ptm-leerdoel-oordeelsvorming"
+        "value": "ptm-leerdoel-oordeelsvorming",
+        "type": "iframe",
+        "title": "Document met een proftaak leerdoel genaamd oordeelsvorming",
+        "content": "https://docs.google.com/document/d/1C01pYVAvz1St_-Q4tDecui95o9pYhi7ufmQEOZy1Wlk/"
       },
       {
         "label": "Leervaardigheid",
-        "value": "ptm-leerdoel-leervaardigheid"
+        "value": "ptm-leerdoel-leervaardigheid",
+        "type": "iframe",
+        "title": "Document met een proftaak leerdoel genaamd leervaardigheid",
+        "content": "https://docs.google.com/document/d/12fvJKgkz974qAcnhCtTQh8moRqJ-thAooSdh4XdpLJI/"
       },
       {
         "label": "Communicatie",
-        "value": "ptm-leerdoel-communicatie"
+        "value": "ptm-leerdoel-communicatie",
+        "type": "iframe",
+        "title": "Document met een proftaak leerdoel genaamd communicatie",
+        "content": "https://docs.google.com/document/d/1qLG_oWl3An_mgc2u0JXNNDrVxzrgNRhKCM1l2AiSEHQ/"
       }
     ]
   },
@@ -182,8 +194,8 @@
     "icon": "fa-folder",
     "children": [
       {
-        "label": "doc",
-        "value": "ptm-bewijslast-doc",
+        "label": "Leeg",
+        "value": "ptm-bewijslast-leeg",
         "icon": "fa-file"
       }
     ]
