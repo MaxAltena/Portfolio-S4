@@ -53,11 +53,17 @@
       },
       {
         "label": "Onderbouwen media-inzet",
-        "value": "sco-leerdoel-onderbouwen-media-inzet"
+        "value": "sco-leerdoel-onderbouwen-media-inzet",
+        "type": "iframe",
+        "title": "Document met een strategie & concepting leerdoel genaamd onderbouwen media-inzet",
+        "content": "https://docs.google.com/document/d/1YM8_I8fDl-or7w2x30-cYMHf2ORSkoHHlSIw4XToBkc/"
       },
       {
         "label": "Executie concept",
-        "value": "sco-leerdoel-executie-concept"
+        "value": "sco-leerdoel-executie-concept",
+        "type": "iframe",
+        "title": "Document met een strategie & concepting leerdoel genaamd executie concept",
+        "content": "https://docs.google.com/document/d/16VJyB3PnFqVpDLdDOpQQdvhz-Qv9R1CILcC-6d20hHs/"
       }
     ]
   },
@@ -67,7 +73,7 @@
     "icon": "fa-folder",
     "children": [
       {
-        "label": "leeg",
+        "label": "Leeg",
         "value": "sco-bewijslast-leeg",
         "icon": "fa-file"
       }
@@ -76,36 +82,45 @@
   {
     "divider": true,
     "label": "User Experience",
-    "value": "nav-uxu",
+    "value": "nav-ux",
     "icon": "fa-user-astronaut"
   },
   {
     "label": "Leerdoelen",
-    "value": "uxu-leerdoelen",
+    "value": "ux-leerdoelen",
     "icon": "fa-bullseye",
     "children": [
       {
         "label": "Gebruikersonderzoek",
-        "value": "uxu-leerdoel-gebruikersonderzoek"
+        "value": "ux-leerdoel-gebruikersonderzoek",
+        "type": "iframe",
+        "title": "Document met een user experience leerdoel genaamd gebruikersonderzoek",
+        "content": "https://docs.google.com/document/d/18V2iu267BrRRbCh1P_PyNSlaWaVxf5f7YEFiIgCnA40/"
       },
       {
         "label": "Prototype voorleggen",
-        "value": "uxu-leerdoel-prototype-voorleggen"
+        "value": "ux-leerdoel-prototype-voorleggen",
+        "type": "iframe",
+        "title": "Document met een user experience leerdoel genaamd prototype voorleggen",
+        "content": "https://docs.google.com/document/d/1EZjbI8DFaddD9Znvw-ZM67Xiri7XIf4AzXLqKtOFgGM/"
       },
       {
         "label": "Onderbouwen interface",
-        "value": "uxu-leerdoel-onderbouwen-interface"
+        "value": "ux-leerdoel-onderbouwen-interface",
+        "type": "iframe",
+        "title": "Document met een user experience leerdoel genaamd onderbouwen interface",
+        "content": "https://docs.google.com/document/d/1sDBAGdxchIthTjUVZpDTXf6FaR_7q61iA9XqgrTQoCE/"
       }
     ]
   },
   {
     "label": "Bewijslast",
-    "value": "uxu-bewijslast",
+    "value": "ux-bewijslast",
     "icon": "fa-folder",
     "children": [
       {
-        "label": "leeg",
-        "value": "uxu-bewijslast-leeg",
+        "label": "Leeg",
+        "value": "ux-bewijslast-leeg",
         "icon": "fa-file"
       }
     ]
@@ -123,15 +138,24 @@
     "children": [
       {
         "label": "Architectuur",
-        "value": "ded-leerdoel-architectuur"
+        "value": "ded-leerdoel-architectuur",
+        "type": "iframe",
+        "title": "Document met een design & development leerdoel genaamd architectuur",
+        "content": "https://docs.google.com/document/d/1yjAKBo5fI5k3GeZHYDeldsFRKPV7kPIJ9ITsmsmKM0U/"
       },
       {
         "label": "Beheerbaarheid",
-        "value": "ded-leerdoel-beheerbaarheid"
+        "value": "ded-leerdoel-beheerbaarheid",
+        "type": "iframe",
+        "title": "Document met een design & development leerdoel genaamd beheerbaarheid",
+        "content": "https://docs.google.com/document/d/1xCHmd4FYqljCH16lMf4pbgJzVlM6AImCLlvJR5c2Lpw/"
       },
       {
         "label": "Ontwikkelomgeving",
-        "value": "ded-leerdoel-ontwikkelomgeving"
+        "value": "ded-leerdoel-ontwikkelomgeving",
+        "type": "iframe",
+        "title": "Document met een design & development leerdoel genaamd architectuur",
+        "content": "https://docs.google.com/document/d/13Y3Tb-k4ZTzhOowW5H7qzvBw0QhL1DDIRMzNgvw82aw/"
       }
     ]
   },
@@ -141,7 +165,7 @@
     "icon": "fa-folder",
     "children": [
       {
-        "label": "leeg",
+        "label": "Leeg",
         "value": "ded-bewijslast-leeg",
         "icon": "fa-file"
       }
