@@ -28,10 +28,25 @@
   },
   {
     "label": "Opgestelde leerdoelen",
-    "value": "po-opgestelde-leerdoelen",
+    "value": "po-leerdoelen",
+    "icon": "fa-bullseye",
     "type": "iframe",
     "title": "Document met de opgestelde professionele ontwikkeling leerdoelen",
-    "content": "https://docs.google.com/document/d/1Thcycya1UpFk60BQ5ULtg58AXNPGnhaoDE9FCFUuiDQ/"
+    "content": "hhttps://docs.google.com/document/d/1XebYnpWhLr4bjpF3cT_Juh9gWSNVzjvg8GODsMopWTM/"
+  },
+  {
+    "label": "Bewijslast",
+    "value": "po-bewijslast",
+    "icon": "fa-folder",
+    "children": [
+      {
+        "label": "Gate 2 - Pitch",
+        "value": "po-gate2-pitch",
+        "icon": "fa-video",
+        "type": "video",
+        "content": "<iframe src='https://www.youtube-nocookie.com/embed/C8MZtW7-aYE' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+      }
+    ]
   },
   {
     "divider": true,

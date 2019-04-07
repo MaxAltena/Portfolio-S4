@@ -27,6 +27,9 @@ class Content extends Component {
         window.open(item.content, "_blank");
         this.setState({ item, loading: false });
         break;
+      case "video":
+        this.setState({ item, loading: true });
+        break;
       default:
         this.setState({ item, loading: false });
         break;
@@ -52,6 +55,9 @@ class Content extends Component {
           setTimeout(() => {
             this.setState({ loading: false });
           }, 600);
+          break;
+        case "video":
+          this.setState({ item, loading: true });
           break;
         default:
           setTimeout(() => {
@@ -104,6 +110,15 @@ class Content extends Component {
             {loading ? <Loader /> : null}
             <External item={item} />
           </main>
+        );
+        break;
+      case "video":
+        console.log(item);
+        content = (
+          <main
+            className="Content"
+            dangerouslySetInnerHTML={{ __html: item.content }}
+          />
         );
         break;
       case "page":
