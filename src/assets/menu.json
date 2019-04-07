@@ -32,7 +32,7 @@
     "icon": "fa-bullseye",
     "type": "iframe",
     "title": "Document met de opgestelde professionele ontwikkeling leerdoelen",
-    "content": "hhttps://docs.google.com/document/d/1XebYnpWhLr4bjpF3cT_Juh9gWSNVzjvg8GODsMopWTM/"
+    "content": "https://docs.google.com/document/d/1XebYnpWhLr4bjpF3cT_Juh9gWSNVzjvg8GODsMopWTM/"
   },
   {
     "label": "Bewijslast",
@@ -44,7 +44,8 @@
         "value": "po-gate2-pitch",
         "icon": "fa-video",
         "type": "video",
-        "content": "<iframe src='https://www.youtube-nocookie.com/embed/C8MZtW7-aYE' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+        "title": "Gate 2 - Pitch",
+        "content": "https://www.youtube-nocookie.com/embed/C8MZtW7-aYE"
       }
     ]
   },
@@ -134,9 +135,12 @@
     "icon": "fa-folder",
     "children": [
       {
-        "label": "Leeg",
-        "value": "ux-bewijslast-leeg",
-        "icon": "fa-file"
+        "label": "Onderzoeksdocument | Mark & Max",
+        "value": "ptm-onderzoeksdocument-mm",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Onderzoeksdocument van The Mark & Max",
+        "content": "https://docs.google.com/document/d/1ukUbipatB31oT5JiroUaLcMwD8YZ1B3Cw0cANiJaZO8/"
       }
     ]
   },
@@ -180,9 +184,20 @@
     "icon": "fa-folder",
     "children": [
       {
-        "label": "Leeg",
-        "value": "ded-bewijslast-leeg",
-        "icon": "fa-file"
+        "label": "ProjectB",
+        "value": "ded-projectb",
+        "icon": "fa-globe",
+        "type": "external",
+        "title": "ProjectB update website",
+        "content": "https://projectb.maxaltena.com/"
+      },
+      {
+        "label": "GitHub ProjectB",
+        "value": "ded-projectb-github",
+        "icon": "fab-github",
+        "type": "external",
+        "title": "GitHub van ProjectB update website",
+        "content": "https://github.com/MaxAltena/projectb.maxaltena.com"
       }
     ]
   },
@@ -233,9 +248,44 @@
     "icon": "fa-folder",
     "children": [
       {
-        "label": "Leeg",
-        "value": "ptm-bewijslast-leeg",
-        "icon": "fa-file"
+        "label": "Parkinson Café pitch",
+        "value": "ptm-pc-pitch",
+        "icon": "fa-video",
+        "type": "video",
+        "title": "Parkinson Café pitch",
+        "content": "https://www.youtube-nocookie.com/embed/tch4-8C8Z8M"
+      },
+      {
+        "label": "ProjectB pitch",
+        "value": "ptm-projectb-pitch",
+        "icon": "fa-video",
+        "type": "video",
+        "title": "ProjectB pitch",
+        "content": "https://www.youtube-nocookie.com/embed/4u4ZKsNX52w"
+      },
+      {
+        "label": "Gate 2 - Pitch",
+        "value": "ptm-gate2-pitch",
+        "icon": "fa-video",
+        "type": "video",
+        "title": "Gate 2 - Pitch",
+        "content": "https://www.youtube-nocookie.com/embed/C8MZtW7-aYE"
+      },
+      {
+        "label": "Onderzoeksdocument | Mark & Max",
+        "value": "ptm-onderzoeksdocument-mm",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Onderzoeksdocument van The Mark & Max",
+        "content": "https://docs.google.com/document/d/1ukUbipatB31oT5JiroUaLcMwD8YZ1B3Cw0cANiJaZO8/"
+      },
+      {
+        "label": "Onderzoeksdocument | The Parkinson Project",
+        "value": "ptm-onderzoeksdocument-tpp",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Onderzoeksdocument van The Parkinson Project",
+        "content": "https://docs.google.com/document/d/1d60ZScecbKcL-DwDqaSjlUTVRLbmRM9bu_9iNALBH4c/"
       }
     ]
   }

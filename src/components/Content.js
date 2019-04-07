@@ -115,10 +115,15 @@ class Content extends Component {
       case "video":
         console.log(item);
         content = (
-          <main
-            className="Content"
-            dangerouslySetInnerHTML={{ __html: item.content }}
-          />
+          <main className="Content">
+            <iframe
+              title={item.title}
+              src={item.content}
+              frameborder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            />
+          </main>
         );
         break;
       case "page":
