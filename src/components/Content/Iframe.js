@@ -6,7 +6,7 @@ const Iframe = ({ url, title, loading, handleLoad }) => {
       <iframe
         src={`${
           url.startsWith("https://docs.google.com/document/d/")
-            ? url + "/preview"
+            ? url + "preview"
             : url
         }`}
         frameBorder="0"
