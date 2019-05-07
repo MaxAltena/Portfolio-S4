@@ -1,7 +1,7 @@
 {
   "name": "portfolio-s4",
   "description": "Max Altena's portfolio voor het vierde (4) semester van ICT & Media Design",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "react",
     "app",
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "https://github.com/MaxAltena/Portfolio-S4.git"
   },
-  "homepage": "https://portfolio.maxaltena.com/S4",
+  "homepage": "https://portfolio.maxaltena.com/S4/",
   "dependencies": {
     "p5": "^0.7.3",
     "react": "^16.7.0",
@@ -40,9 +40,6 @@
     "build": "npm-run-all build-css && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
   },
   "browserslist": [
     ">0.2%",

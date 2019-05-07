@@ -7,7 +7,7 @@
     "icon": "fa-home"
   },
   {
-    "label": "Home",
+    "label": "Huisje",
     "value": "home",
     "icon": "fa-home",
     "type": "splash"
@@ -20,6 +20,7 @@
     "title": "Document over Max Altena",
     "content": "https://docs.google.com/document/d/1mu-9pzo-tCYt2wudpFJeOZjqEg0zHgSwAAB4kxmyltU/"
   },
+
   {
     "divider": true,
     "label": "Professionele ontwikkeling",
@@ -135,11 +136,11 @@
     "icon": "fa-folder",
     "children": [
       {
-        "label": "Onderzoeksdocument | Mark & Max",
+        "label": "Onderzoeksdocument | M&M",
         "value": "ptm-onderzoeksdocument-mm",
         "icon": "fa-file-alt",
         "type": "iframe",
-        "title": "Onderzoeksdocument van The Mark & Max",
+        "title": "Onderzoeksdocument van Mark & Max",
         "content": "https://docs.google.com/document/d/1ukUbipatB31oT5JiroUaLcMwD8YZ1B3Cw0cANiJaZO8/"
       }
     ]
@@ -272,15 +273,15 @@
         "content": "https://www.youtube-nocookie.com/embed/C8MZtW7-aYE"
       },
       {
-        "label": "Onderzoeksdocument | Mark & Max",
+        "label": "Onderzoeksdocument | M&M",
         "value": "ptm-onderzoeksdocument-mm",
         "icon": "fa-file-alt",
         "type": "iframe",
-        "title": "Onderzoeksdocument van The Mark & Max",
+        "title": "Onderzoeksdocument van Mark & Max",
         "content": "https://docs.google.com/document/d/1ukUbipatB31oT5JiroUaLcMwD8YZ1B3Cw0cANiJaZO8/"
       },
       {
-        "label": "Onderzoeksdocument | The Parkinson Project",
+        "label": "Onderzoeksdocument | TPP",
         "value": "ptm-onderzoeksdocument-tpp",
         "icon": "fa-file-alt",
         "type": "iframe",

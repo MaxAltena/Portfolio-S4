@@ -66,6 +66,8 @@ class App extends Component {
       }
     });
 
+    console.log(window);
+
     return (
       <div className="App">
         <Navigation sidemenu={sidemenu} />

@@ -1,5 +1,4 @@
-export default function sketch(p) {
-  // const p5 = p.constructor;
+export default function sketch(p5) {
   let outerElement = document.getElementsByClassName("Splash")[0];
   let width = outerElement.clientWidth;
   let height = outerElement.clientHeight;
@@ -8,25 +7,32 @@ export default function sketch(p) {
   let direction = true;
   let mouseXmapped = 0;
 
-  p.setup = function() {
-    p.createCanvas(width, height);
+  p5.setup = function() {
+    p5.createCanvas(width, height);
   };
 
-  p.windowResized = function() {
+  p5.windowResized = function() {
     width = outerElement.clientWidth;
     height = outerElement.clientHeight;
-    p.resizeCanvas(width, height);
+    p5.resizeCanvas(width, height);
   };
 
-  p.draw = function() {
-    p.background(248, 249, 250);
-    p.angleMode(p.DEGREES);
-    p.stroke("#222d32");
-    p.strokeWeight(10);
-    p.fill("#222d32");
+  p5.mouseMoved = function() {
+    mouseIsMoving = true;
+    setTimeout(function() {
+      mouseIsMoving = false;
+    }, 500);
+  };
+
+  p5.draw = function() {
+    p5.background(248, 249, 250);
+    p5.angleMode(p5.DEGREES);
+    p5.stroke("#222d32");
+    p5.strokeWeight(10);
+    p5.fill("#222d32");
 
     if (mouseIsMoving) {
-      mouseXmapped = p.map(p.mouseX, 0, width, 8, -4);
+      mouseXmapped = p5.map(p5.mouseX, 0, width, 8, -4);
     } else {
       if (!idleStateUpdated) {
         idleStateUpdated = true;
@@ -78,20 +84,13 @@ export default function sketch(p) {
       (height / 10) * 11
     ];
 
-    p.beginShape();
+    p5.beginShape();
     for (let i = 0; i < cords.length; i++) {
       let x = cords[i];
       i++;
       let y = cords[i];
-      p.curveVertex(x, y);
+      p5.curveVertex(x, y);
     }
-    p.endShape(p.CLOSE);
-  };
-
-  p.mouseMoved = function() {
-    mouseIsMoving = true;
-    setTimeout(function() {
-      mouseIsMoving = false;
-    }, 500);
+    p5.endShape(p5.CLOSE);
   };
 }
