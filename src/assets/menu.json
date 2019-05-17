@@ -185,6 +185,14 @@
     "icon": "fa-folder",
     "children": [
       {
+        "label": "Documentatie Architectuur",
+        "value": "ded-doc-architectuur",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Documentatie Architectuur",
+        "content": "https://docs.google.com/document/d/1qG-I4ixsHBkdmvU6MjQsGcodtxReolEETQTViKZj0pU/"
+      },
+      {
         "label": "ProjectB",
         "value": "ded-projectb",
         "icon": "fa-globe",
