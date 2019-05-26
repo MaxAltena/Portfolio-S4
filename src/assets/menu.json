@@ -193,20 +193,20 @@
         "content": "https://docs.google.com/document/d/1qG-I4ixsHBkdmvU6MjQsGcodtxReolEETQTViKZj0pU/"
       },
       {
-        "label": "ProjectB",
-        "value": "ded-projectb",
-        "icon": "fa-globe",
-        "type": "external",
-        "title": "ProjectB update website",
-        "content": "https://projectb.maxaltena.com/"
-      },
+        "label": "Documentatie Beheerbaarheid",
+        "value": "ded-doc-beheerbaarheid",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Documentatie Beheerbaarheid",
+        "content": "https://docs.google.com/document/d/1KFiKIQqY_ChGKs9RVNpKzARsE83zPwKOOTfN0shErGg/"
+      }
       {
-        "label": "GitHub ProjectB",
-        "value": "ded-projectb-github",
-        "icon": "fab-github",
-        "type": "external",
-        "title": "GitHub van ProjectB update website",
-        "content": "https://github.com/MaxAltena/projectb.maxaltena.com"
+        "label": "Documentatie Ontwikkelomgeving",
+        "value": "ded-doc-ontwikkelomgeving",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Documentatie Ontwikkelomgeving",
+        "content": "https://docs.google.com/document/d/13LzolabVFQpY7kZKK3wdFCAE1w5XLVt51LfoR0b2mXo/"
       }
     ]
   },
