@@ -41,6 +41,14 @@
     "icon": "fa-folder",
     "children": [
       {
+        "label": "Documentatie PO",
+        "value": "po-doc",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Documentatie Professionele Ontwikkeling",
+        "content": "https://docs.google.com/document/d/1rxKx9yWPBjC417joSI06gcQFuvG6q9y4_KaHGNhaIcE/"
+      },
+      {
         "label": "Gate 2 - Pitch",
         "value": "po-gate2-pitch",
         "icon": "fa-video",
