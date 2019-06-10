@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import SideMenu from "./Navigation/SideMenu.js";
 import Logo from "../assets/Logo";
+import "simplebar";
+import "simplebar/dist/simplebar.min.css";
 
 class Navigation extends Component {
   constructor(props) {
@@ -38,7 +40,7 @@ class Navigation extends Component {
     const { items, theme, activeItem } = this.props.sidemenu;
     const { logo } = this.state;
     return (
-      <div className="Navigation">
+      <div className="Navigation" data-simplebar data-simplebar-auto-hide={false} data-simplebar-force-visible={true}>
         <div className="top">
           <Link
             to="/#home"

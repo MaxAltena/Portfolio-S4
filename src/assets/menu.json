@@ -20,7 +20,6 @@
     "title": "Document over Max Altena",
     "content": "https://docs.google.com/document/d/1mu-9pzo-tCYt2wudpFJeOZjqEg0zHgSwAAB4kxmyltU/"
   },
-
   {
     "divider": true,
     "label": "Professionele ontwikkeling",
@@ -49,12 +48,76 @@
         "content": "https://docs.google.com/document/d/1rxKx9yWPBjC417joSI06gcQFuvG6q9y4_KaHGNhaIcE/"
       },
       {
+        "label": "Onderzoeksdocument | M&M",
+        "value": "po-onderzoeksdocument-mm",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Onderzoeksdocument van Mark & Max",
+        "content": "https://docs.google.com/document/d/1ukUbipatB31oT5JiroUaLcMwD8YZ1B3Cw0cANiJaZO8/"
+      },
+      {
+        "label": "Feedback op portfolio Bart",
+        "value": "po-feedback-bart",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Feedback op portfolio Bart",
+        "content": "https://docs.google.com/document/d/1B_pa8tf9BOcQFNbMdLaZ_kZ6mGd3F2yWPPAVYlQ5SsM/"
+      },
+      {
+        "label": "Parkinson Café pitch",
+        "value": "po-pc-pitch",
+        "icon": "fab-youtube",
+        "type": "video",
+        "title": "Parkinson Café pitch",
+        "content": "https://www.youtube-nocookie.com/embed/tch4-8C8Z8M"
+      },
+      {
+        "label": "ProjectB pitch",
+        "value": "po-projectb-pitch",
+        "icon": "fab-youtube",
+        "type": "video",
+        "title": "ProjectB pitch",
+        "content": "https://www.youtube-nocookie.com/embed/4u4ZKsNX52w"
+      },
+      {
+        "label": "Inspiratiesessie Sogeti",
+        "value": "po-inspiratiesessie",
+        "icon": "fab-youtube",
+        "type": "video",
+        "title": "Inspiratiesessie Sogeti",
+        "content": "https://www.youtube-nocookie.com/embed/IR9ZNKuOe-Q"
+      },
+      {
         "label": "Gate 2 - Pitch",
         "value": "po-gate2-pitch",
-        "icon": "fa-video",
+        "icon": "fab-youtube",
         "type": "video",
         "title": "Gate 2 - Pitch",
         "content": "https://www.youtube-nocookie.com/embed/C8MZtW7-aYE"
+      },
+      {
+        "label": "Pitch @ Microsoft",
+        "value": "po-tpp-pitch",
+        "icon": "fab-youtube",
+        "type": "video",
+        "title": "Pitch @ Microsoft",
+        "content": "https://www.youtube-nocookie.com/embed/rMoaDUYYTeA"
+      },
+      {
+        "label": "CodePen P5.js",
+        "value": "po-p5",
+        "icon": "fab-codepen",
+        "type": "iframe",
+        "title": "CodePen Wave like divider",
+        "content": "https://codepen.io/MaxAltena/pen/zeRJRV"
+      },
+      {
+        "label": "CodePen PTS.js",
+        "value": "po-pts",
+        "icon": "fab-codepen",
+        "type": "iframe",
+        "title": "CodePen my name",
+        "content": "https://codepen.io/MaxAltena/pen/wLwQwq"
       }
     ]
   },
@@ -144,12 +207,12 @@
     "icon": "fa-folder",
     "children": [
       {
-        "label": "Onderzoeksdocument | M&M",
-        "value": "ptm-onderzoeksdocument-mm",
+        "label": "Documentatie User Experience",
+        "value": "ux-documentatie",
         "icon": "fa-file-alt",
         "type": "iframe",
-        "title": "Onderzoeksdocument van Mark & Max",
-        "content": "https://docs.google.com/document/d/1ukUbipatB31oT5JiroUaLcMwD8YZ1B3Cw0cANiJaZO8/"
+        "title": "Documentatie User Experience",
+        "content": "https://docs.google.com/document/d/10Pit5rg3jVRuS3QEvH-kfZB3-QKYjhnTqYGReZxahLc/"
       }
     ]
   },
@@ -265,28 +328,12 @@
     "icon": "fa-folder",
     "children": [
       {
-        "label": "Parkinson Café pitch",
-        "value": "ptm-pc-pitch",
-        "icon": "fa-video",
-        "type": "video",
-        "title": "Parkinson Café pitch",
-        "content": "https://www.youtube-nocookie.com/embed/tch4-8C8Z8M"
-      },
-      {
-        "label": "ProjectB pitch",
-        "value": "ptm-projectb-pitch",
-        "icon": "fa-video",
-        "type": "video",
-        "title": "ProjectB pitch",
-        "content": "https://www.youtube-nocookie.com/embed/4u4ZKsNX52w"
-      },
-      {
-        "label": "Gate 2 - Pitch",
-        "value": "ptm-gate2-pitch",
-        "icon": "fa-video",
-        "type": "video",
-        "title": "Gate 2 - Pitch",
-        "content": "https://www.youtube-nocookie.com/embed/C8MZtW7-aYE"
+        "label": "Documentatie Proftaak",
+        "value": "ptm-doc",
+        "type": "iframe",
+        "icon": "fa-file-alt",
+        "title": "Documentatie Proftaak",
+        "content": "https://docs.google.com/document/d/1xkNsZybilxHeGyVyac71aXDM6bB1pJwq1nH6eqJttfQ/"
       },
       {
         "label": "Onderzoeksdocument | M&M",
@@ -297,12 +344,60 @@
         "content": "https://docs.google.com/document/d/1ukUbipatB31oT5JiroUaLcMwD8YZ1B3Cw0cANiJaZO8/"
       },
       {
-        "label": "Onderzoeksdocument | TPP",
-        "value": "ptm-onderzoeksdocument-tpp",
+        "label": "Feedback op portfolio Bart",
+        "value": "ptm-feedback-bart",
         "icon": "fa-file-alt",
         "type": "iframe",
-        "title": "Onderzoeksdocument van The Parkinson Project",
-        "content": "https://docs.google.com/document/d/1d60ZScecbKcL-DwDqaSjlUTVRLbmRM9bu_9iNALBH4c/"
+        "title": "Feedback op portfolio Bart",
+        "content": "https://docs.google.com/document/d/1B_pa8tf9BOcQFNbMdLaZ_kZ6mGd3F2yWPPAVYlQ5SsM/"
+      },
+      {
+        "label": "Documentatie PO",
+        "value": "ptm-documentatie-po",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Documentatie Professionele Ontwikkeling",
+        "content": "https://docs.google.com/document/d/1rxKx9yWPBjC417joSI06gcQFuvG6q9y4_KaHGNhaIcE/"
+      },
+      {
+        "label": "ProjectB pitch",
+        "value": "ptm-projectb-pitch",
+        "icon": "fab-youtube",
+        "type": "video",
+        "title": "ProjectB pitch",
+        "content": "https://www.youtube-nocookie.com/embed/4u4ZKsNX52w"
+      },
+      {
+        "label": "Parkinson Café pitch",
+        "value": "ptm-pc-pitch",
+        "icon": "fab-youtube",
+        "type": "video",
+        "title": "Parkinson Café pitch",
+        "content": "https://www.youtube-nocookie.com/embed/tch4-8C8Z8M"
+      },
+      {
+        "label": "Inspiratiesessie Sogeti",
+        "value": "ptm-inspiratiesessie",
+        "icon": "fab-youtube",
+        "type": "video",
+        "title": "Inspiratiesessie Sogeti",
+        "content": "https://www.youtube-nocookie.com/embed/IR9ZNKuOe-Q"
+      },
+      {
+        "label": "Gate 2 - Pitch",
+        "value": "ptm-gate2-pitch",
+        "icon": "fab-youtube",
+        "type": "video",
+        "title": "Gate 2 - Pitch",
+        "content": "https://www.youtube-nocookie.com/embed/C8MZtW7-aYE"
+      },
+      {
+        "label": "Pitch @ Microsoft",
+        "value": "ptm-tpp-pitch",
+        "icon": "fab-youtube",
+        "type": "video",
+        "title": "Pitch @ Microsoft",
+        "content": "https://www.youtube-nocookie.com/embed/rMoaDUYYTeA"
       }
     ]
   }

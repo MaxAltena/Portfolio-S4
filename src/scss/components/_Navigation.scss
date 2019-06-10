@@ -11,6 +11,10 @@
   flex-direction: column;
   overflow-y: auto;
 
+.simplebar-scrollbar::before {
+  background: $background;
+}
+
   .top {
     width: 100%;
     height: auto;
