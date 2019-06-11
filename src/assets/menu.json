@@ -35,18 +35,18 @@
     "content": "https://docs.google.com/document/d/1XebYnpWhLr4bjpF3cT_Juh9gWSNVzjvg8GODsMopWTM/"
   },
   {
+    "label": "Documentatie PO",
+    "value": "po-doc",
+    "icon": "fa-file-alt",
+    "type": "iframe",
+    "title": "Documentatie Professionele Ontwikkeling",
+    "content": "https://docs.google.com/document/d/1rxKx9yWPBjC417joSI06gcQFuvG6q9y4_KaHGNhaIcE/"
+  },
+  {
     "label": "Bewijslast",
     "value": "po-bewijslast",
     "icon": "fa-folder",
     "children": [
-      {
-        "label": "Documentatie PO",
-        "value": "po-doc",
-        "icon": "fa-file-alt",
-        "type": "iframe",
-        "title": "Documentatie Professionele Ontwikkeling",
-        "content": "https://docs.google.com/document/d/1rxKx9yWPBjC417joSI06gcQFuvG6q9y4_KaHGNhaIcE/"
-      },
       {
         "label": "Onderzoeksdocument | M&M",
         "value": "po-onderzoeksdocument-mm",
@@ -64,20 +64,20 @@
         "content": "https://docs.google.com/document/d/1B_pa8tf9BOcQFNbMdLaZ_kZ6mGd3F2yWPPAVYlQ5SsM/"
       },
       {
-        "label": "Parkinson Café pitch",
-        "value": "po-pc-pitch",
-        "icon": "fab-youtube",
-        "type": "video",
-        "title": "Parkinson Café pitch",
-        "content": "https://www.youtube-nocookie.com/embed/tch4-8C8Z8M"
-      },
-      {
         "label": "ProjectB pitch",
         "value": "po-projectb-pitch",
         "icon": "fab-youtube",
         "type": "video",
         "title": "ProjectB pitch",
         "content": "https://www.youtube-nocookie.com/embed/4u4ZKsNX52w"
+      },
+      {
+        "label": "Parkinson Café pitch",
+        "value": "po-pc-pitch",
+        "icon": "fab-youtube",
+        "type": "video",
+        "title": "Parkinson Café pitch",
+        "content": "https://www.youtube-nocookie.com/embed/tch4-8C8Z8M"
       },
       {
         "label": "Inspiratiesessie Sogeti",
@@ -202,17 +202,33 @@
     ]
   },
   {
+    "label": "Documentatie User Experience",
+    "value": "ux-documentatie",
+    "icon": "fa-file-alt",
+    "type": "iframe",
+    "title": "Documentatie User Experience",
+    "content": "https://docs.google.com/document/d/10Pit5rg3jVRuS3QEvH-kfZB3-QKYjhnTqYGReZxahLc/"
+  },
+  {
     "label": "Bewijslast",
     "value": "ux-bewijslast",
     "icon": "fa-folder",
     "children": [
       {
-        "label": "Documentatie User Experience",
-        "value": "ux-documentatie",
+        "label": "Onderzoeksdocument | M&M",
+        "value": "ptm-onderzoeksdocument-mm",
         "icon": "fa-file-alt",
         "type": "iframe",
-        "title": "Documentatie User Experience",
-        "content": "https://docs.google.com/document/d/10Pit5rg3jVRuS3QEvH-kfZB3-QKYjhnTqYGReZxahLc/"
+        "title": "Onderzoeksdocument van Mark & Max",
+        "content": "https://docs.google.com/document/d/1ukUbipatB31oT5JiroUaLcMwD8YZ1B3Cw0cANiJaZO8/"
+      },
+      {
+        "label": "Literature Study - Magazines",
+        "value": "ptm-onderzoek-magazines",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Literature Study - Magazines",
+        "content": "https://docs.google.com/document/d/1kJTq0XbtSxwMSyuRGMZBRApm4hqvKuq5JMbgSlAPoe8/"
       }
     ]
   },
@@ -251,33 +267,33 @@
     ]
   },
   {
+    "label": "Documentatie Design & Development",
+    "value": "ded-doc",
+    "icon": "fa-file-alt",
+    "type": "iframe",
+    "title": "Documentatie Design & Development",
+    "content": "https://docs.google.com/document/d/1pD3qZKXbse3DUEnr9AKx5pq478XMeXFzlNuCVtzNank/"
+  },
+  {
     "label": "Bewijslast",
     "value": "ded-bewijslast",
     "icon": "fa-folder",
     "children": [
       {
-        "label": "Documentatie Architectuur",
-        "value": "ded-doc-architectuur",
-        "icon": "fa-file-alt",
-        "type": "iframe",
-        "title": "Documentatie Architectuur",
-        "content": "https://docs.google.com/document/d/1qG-I4ixsHBkdmvU6MjQsGcodtxReolEETQTViKZj0pU/"
+        "label": "GitHub TheParkinsonProject",
+        "value": "ded-github",
+        "icon": "fab-github",
+        "type": "external",
+        "title": "GitHub TheParkinsonProject",
+        "content": "https://github.com/de-sigaar/TheParkinsonProject"
       },
       {
-        "label": "Documentatie Beheerbaarheid",
-        "value": "ded-doc-beheerbaarheid",
+        "label": "User story",
+        "value": "ded-user-story",
         "icon": "fa-file-alt",
         "type": "iframe",
-        "title": "Documentatie Beheerbaarheid",
-        "content": "https://docs.google.com/document/d/1KFiKIQqY_ChGKs9RVNpKzARsE83zPwKOOTfN0shErGg/"
-      },
-      {
-        "label": "Documentatie Ontwikkelomgeving",
-        "value": "ded-doc-ontwikkelomgeving",
-        "icon": "fa-file-alt",
-        "type": "iframe",
-        "title": "Documentatie Ontwikkelomgeving",
-        "content": "https://docs.google.com/document/d/13LzolabVFQpY7kZKK3wdFCAE1w5XLVt51LfoR0b2mXo/"
+        "title": "User story",
+        "content": "https://docs.google.com/document/d/1zoaxgOFPvhpZ17TIos1nzXcVPLNUCpjR_AAWrovYppw/"
       }
     ]
   },
@@ -321,6 +337,13 @@
         "content": "https://docs.google.com/document/d/1qLG_oWl3An_mgc2u0JXNNDrVxzrgNRhKCM1l2AiSEHQ/"
       }
     ]
+  },      {
+    "label": "Documentatie Proftaak",
+    "value": "ptm-doc",
+    "type": "iframe",
+    "icon": "fa-file-alt",
+    "title": "Documentatie Proftaak",
+    "content": "https://docs.google.com/document/d/1xkNsZybilxHeGyVyac71aXDM6bB1pJwq1nH6eqJttfQ/"
   },
   {
     "label": "Bewijslast",
@@ -328,12 +351,12 @@
     "icon": "fa-folder",
     "children": [
       {
-        "label": "Documentatie Proftaak",
-        "value": "ptm-doc",
-        "type": "iframe",
+        "label": "User story",
+        "value": "ptm-user-story",
         "icon": "fa-file-alt",
-        "title": "Documentatie Proftaak",
-        "content": "https://docs.google.com/document/d/1xkNsZybilxHeGyVyac71aXDM6bB1pJwq1nH6eqJttfQ/"
+        "type": "iframe",
+        "title": "User story",
+        "content": "https://docs.google.com/document/d/1zoaxgOFPvhpZ17TIos1nzXcVPLNUCpjR_AAWrovYppw/"
       },
       {
         "label": "Onderzoeksdocument | M&M",
@@ -398,6 +421,14 @@
         "type": "video",
         "title": "Pitch @ Microsoft",
         "content": "https://www.youtube-nocookie.com/embed/rMoaDUYYTeA"
+      },
+      {
+        "label": "Literature Study - Magazines",
+        "value": "ptm-onderzoek-magazines",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Literature Study - Magazines",
+        "content": "https://docs.google.com/document/d/1kJTq0XbtSxwMSyuRGMZBRApm4hqvKuq5JMbgSlAPoe8/"
       }
     ]
   }
