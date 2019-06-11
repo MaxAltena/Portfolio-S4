@@ -193,8 +193,8 @@
         "content": "https://docs.google.com/document/d/1EZjbI8DFaddD9Znvw-ZM67Xiri7XIf4AzXLqKtOFgGM/"
       },
       {
-        "label": "Onderbouwen interface",
-        "value": "ux-leerdoel-onderbouwen-interface",
+        "label": "Interface onderbouwen",
+        "value": "ux-leerdoel-interface-onderbouwen",
         "type": "iframe",
         "title": "Document met een user experience leerdoel genaamd onderbouwen interface",
         "content": "https://docs.google.com/document/d/1sDBAGdxchIthTjUVZpDTXf6FaR_7q61iA9XqgrTQoCE/"
@@ -216,7 +216,7 @@
     "children": [
       {
         "label": "Onderzoeksdocument | M&M",
-        "value": "ptm-onderzoeksdocument-mm",
+        "value": "ux-onderzoeksdocument-mm",
         "icon": "fa-file-alt",
         "type": "iframe",
         "title": "Onderzoeksdocument van Mark & Max",
@@ -224,11 +224,19 @@
       },
       {
         "label": "Literature Study - Magazines",
-        "value": "ptm-onderzoek-magazines",
+        "value": "ux-onderzoek-magazines",
         "icon": "fa-file-alt",
         "type": "iframe",
         "title": "Literature Study - Magazines",
         "content": "https://docs.google.com/document/d/1kJTq0XbtSxwMSyuRGMZBRApm4hqvKuq5JMbgSlAPoe8/"
+      },
+      {
+        "label": "User story",
+        "value": "ux-user-story",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "User story",
+        "content": "https://docs.google.com/document/d/1zoaxgOFPvhpZ17TIos1nzXcVPLNUCpjR_AAWrovYppw/"
       }
     ]
   },
