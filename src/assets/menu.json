@@ -147,13 +147,21 @@
         "content": "https://docs.google.com/document/d/1YM8_I8fDl-or7w2x30-cYMHf2ORSkoHHlSIw4XToBkc/"
       },
       {
-        "label": "Executie concept",
-        "value": "sco-leerdoel-executie-concept",
+        "label": "Executie",
+        "value": "sco-leerdoel-executie",
         "type": "iframe",
-        "title": "Document met een strategie & concepting leerdoel genaamd executie concept",
+        "title": "Document met een strategie & concepting leerdoel genaamd executie",
         "content": "https://docs.google.com/document/d/16VJyB3PnFqVpDLdDOpQQdvhz-Qv9R1CILcC-6d20hHs/"
       }
     ]
+  },
+  {
+    "label": "Documentatie Strategie & Concepting",
+    "value": "sco-documentatie",
+    "icon": "fa-file-alt",
+    "type": "iframe",
+    "title": "Documentatie Strategie & Concepting",
+    "content": "https://docs.google.com/document/d/1NPtqBuQT3FxhiK-5leb4dCMqu2IN3TlDSCaKpWfYLoA/"
   },
   {
     "label": "Bewijslast",
@@ -161,11 +169,30 @@
     "icon": "fa-folder",
     "children": [
       {
-        "label": "Leeg",
-        "value": "sco-bewijslast-leeg",
-        "icon": "fa-file"
+        "label": "Brainstorm",
+        "value": "sco-brainstorm",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Brainstorm",
+        "content": "https://docs.google.com/document/d/1sY2_VZSasVgn74NecR5ZOtPpjM-5oybRi6FRUGTQyIM/"
+      },
+      {
+        "label": "Usertest Parkinson Café Eindhoven",
+        "value": "sco-user-test",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Usertest Parkinson Café Eindhoven",
+        "content": "https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/"
+      },
+      {
+        "label": "Conceptboek",
+        "value": "sco-conceptboek",
+        "icon": "fa-book",
+        "type": "external",
+        "title": "Conceptboek",
+        "content": "https://drive.google.com/file/d/14E2ifwVcg18ov-VZxCyexi3DnFWIbEHb/"
       }
-    ]
+  ]
   },
   {
     "divider": true,
@@ -231,12 +258,52 @@
         "content": "https://docs.google.com/document/d/1kJTq0XbtSxwMSyuRGMZBRApm4hqvKuq5JMbgSlAPoe8/"
       },
       {
+        "label": "Pitch - Parkinson Café",
+        "value": "ux-onderzoek-pitch",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Pitch - Parkinson Café",
+        "content": "https://docs.google.com/document/d/1ul_oglOLNGFf7DMFahoCS6O5mlh59ncxcbaXZBOtDCM/"
+      },
+      {
+        "label": "Fly on the Wall - Parkinson Café",
+        "value": "ux-onderzoek-fly",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Fly on the Wall - Parkinson Café",
+        "content": "https://docs.google.com/document/d/1IwHr4eUOuR13m8khC695_UGfNXH2voWlVdvIgs19Yzg/"
+      },
+      {
         "label": "User story",
         "value": "ux-user-story",
         "icon": "fa-file-alt",
         "type": "iframe",
         "title": "User story",
         "content": "https://docs.google.com/document/d/1zoaxgOFPvhpZ17TIos1nzXcVPLNUCpjR_AAWrovYppw/"
+      },
+      {
+        "label": "Usertest Parkinson Café Eindhoven",
+        "value": "ux-user-test-pc1",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Usertest Parkinson Café Eindhoven",
+        "content": "https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/"
+      },
+      {
+        "label": "Usability test plan ",
+        "value": "ux-usability-testplan",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Usability test plan ",
+        "content": "https://docs.google.com/document/d/1_HmJcsl95QpSOCReehRtCdXM3Kxt16Is48Yj8T8ZSd8/"
+      },
+      {
+        "label": "Usability testrapport ",
+        "value": "ux-usability-testrapport",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Usability testrapport ",
+        "content": "https://docs.google.com/document/d/1Nb1b6GTc4cUWjVZwjUiloDZipHCGBnuFTl3aPFl4UFU/"
       }
     ]
   },
