@@ -191,8 +191,16 @@
         "type": "external",
         "title": "Conceptboek",
         "content": "https://drive.google.com/file/d/14E2ifwVcg18ov-VZxCyexi3DnFWIbEHb/"
+      },
+      {
+        "label": "Executie",
+        "value": "sco-executie",
+        "icon": "fa-file-alt",
+        "type": "iframe",
+        "title": "Executie",
+        "content": "https://docs.google.com/document/d/1G2rVt8wIli5O6NDeNmOFhXkJh3Jh9J10KrAs5w9BuV4/"
       }
-  ]
+    ]
   },
   {
     "divider": true,
